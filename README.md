@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">A little of my progress</h2> <img align="left" height="130" src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif"  />
+<h2 align="left">A little of my progress</h2> <img align="left" height="80" src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif"  />
 
 
 <div align="center">

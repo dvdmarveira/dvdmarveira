@@ -10,8 +10,8 @@
 
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=dvdiogo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dvdiogo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="140" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=avendvd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avendvd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="140" alt="languages graph"  />
 </div>
 
 <img align="right" height="90" src="https://i.pinimg.com/originals/fa/25/c8/fa25c8eb1c0c1818eec78863344d0e40.gif"  />

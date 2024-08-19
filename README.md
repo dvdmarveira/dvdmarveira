@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeansdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="140" alt="languages graph">
 </div>
 
-<img align="right" height="90" src="https://i.pinimg.com/originals/fa/25/c8/fa25c8eb1c0c1818eec78863344d0e40.gif">
+<img align="right" height="90" src="https://prnt.sc/0E-FCL5zlrO0">
 
 
 <div align="left">

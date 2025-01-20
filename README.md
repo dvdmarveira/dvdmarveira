@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Um pouco do meu progresso</h2> <img align="left" height="80" src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif">
+<h2 align="left">Um pouco da minha jornada</h2> <img align="left" height="80" src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif">
 
 
 <div align="center">

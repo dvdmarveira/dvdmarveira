@@ -1,8 +1,12 @@
-<h2 align="left">Olá! 👋 eu me chamo "Dvd" David Marques.</h2>
+<h2 align="left">Olá! 👋 eu me chamo "Dvd" Deyvid Marques.</h2>
 
 ### 
 
-**Sou um Desenvolvedor Fullstack em formação. Atualmente curso Análise e Desenvolvimento de Sistemas e tenho como foco inicial o desenvolvimento web frontend, utilizando tecnologias como HTML, CSS, JavaScript, React, Next.JS e outras. Convicto de que dedicação e esforço são a base para bons resultados.** 
+**Dev fullstack em formação. Curso Análise e Desenvolvimento de Sistemas e tenho como foco inicial o frontend, mas sempre buscando paralelamente estudar o funcionamento do backend das aplicações que desenvolvo. 
+
+Atualmente, meu foco tem sido em tecnologias como JavaScript, HTML, CSS, React, TypeScript e Next.js, mas também tenho interesse em Node.js, Python e Django, acreditando fielmente que as tecnologias são apenas ferramentas para alcançar determinado objetivo e que o mais importante está na base. 
+
+Convicto de que dedicação e esforço são os pilares para bons resultados.** 
 
 ###
 

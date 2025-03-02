@@ -1,4 +1,4 @@
-<h2 align="left">Olá! 🧑‍💻 eu me chamo "Dvd" Deyvid Marques.</h2>
+<h2 align="left">Olá! 😎 eu me chamo "Dvd" Deyvid Marques.</h2>
 
 ### 
 

@@ -13,7 +13,7 @@
 <h2 align="left">Um pouco da minha jornada</h2> <img align="left" height="80" src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif">
 
 
-<div align="center">
+<div align="end">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dvdmarveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="140" alt="languages graph">
 </div>
 

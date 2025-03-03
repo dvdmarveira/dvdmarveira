@@ -6,11 +6,11 @@
 
 **Atualmente, meu foco tem sido em tecnologias como JavaScript, HTML, CSS, React, TypeScript e Next.js, mas também tenho interesse em Node.js, Python e Django, acreditando fielmente que as tecnologias são apenas ferramentas para alcançar determinado objetivo e que o mais importante está na base.**
 
-**Convicto de que dedicação e esforço são os pilares para bons resultados.** 
+
 
 ###
 
-<h2 align="left">Um pouco da minha jornada</h2> <img align="left" height="80" src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif">
+<h2 align="left">Dedicação e esforço são os pilares para bons resultados.</h2> <img align="left" height="80" src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif">
 
 
 <div align="center">

@@ -1,4 +1,4 @@
-<h2 align="left">Olá! 😎 eu me chamo "Dvd" Deyvid Marques.</h2>
+<h1 align="left">Olá! 😎 eu me chamo "Dvd" Deyvid Marques.</h1>
 
 ### 
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Dedicação e esforço são os pilares para bons resultados.</h2> <img align="left" height="80" src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif">
+<p align="left"><strong>Dedicação e esforço são os pilares para bons resultados.</strong></p> <img align="left" height="80" src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif">
 
 
 <div align="center">

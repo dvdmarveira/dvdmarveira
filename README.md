@@ -1,4 +1,4 @@
-<h1 align="left">Olá! pode me chamar de "Dvd".</h1>
+<h1 align="left">Olá! Pode me chamar de "Dvd".</h1>
 
 ### 
 

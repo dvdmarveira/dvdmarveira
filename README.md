@@ -28,6 +28,8 @@
   <img width="0">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo">
   <img width="0">
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" height="30" alt="tailwind logo">
+  <img width="0">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" alt="react logo">
   <img width="0">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo">

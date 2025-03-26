@@ -2,9 +2,9 @@
 
 ### 
 
-**Dev frontend em formação. Curso Análise e Desenvolvimento de Sistemas e tenho como foco o frontend, mas sempre buscando paralelamente estudar o funcionamento do backend das aplicações que desenvolvo.**
+**Desenvolvedor de Software como foco em frontend, mas sempre buscando paralelamente estudar o funcionamento do backend das aplicações que desenvolvo.**
 
-**Atualmente, meu foco tem sido em tecnologias como JavaScript, HTML, CSS, React, TypeScript e Next.js, mas também tenho interesse em Node.js, Python e Django, acreditando fielmente que as tecnologias são apenas ferramentas para alcançar determinado objetivo e que o mais importante está na base.**
+**Atualmente, meu foco tem sido em tecnologias como JavaScript, Tailwind, React, TypeScript e Next.js, mas também tenho interesse em Node.js, Python e Django, acreditando fielmente que as tecnologias são apenas ferramentas para alcançar determinado objetivo e que o mais importante está na base.**
 
 
 

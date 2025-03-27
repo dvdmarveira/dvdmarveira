@@ -2,7 +2,7 @@
 
 ### 
 
-**Desenvolvedor de Software como foco em frontend, mas sempre buscando paralelamente estudar o funcionamento do backend das aplicações que desenvolvo.**
+**Desenvolvedor de Software Fullstack.**
 
 **Atualmente, meu foco tem sido em tecnologias como JavaScript, Tailwind, React, TypeScript e Next.js, mas também tenho interesse em Node.js, Python e Django, acreditando fielmente que as tecnologias são apenas ferramentas para alcançar determinado objetivo e que o mais importante está na base.**
 

@@ -4,9 +4,7 @@
 
 **Desenvolvedor de Software Fullstack.**
 
-**Atualmente, meu foco tem sido em tecnologias como JavaScript, React, TypeScript e Next.js, mas também tenho interesse em Node.js, C#, .NET e Python,  acreditando fielmente que as tecnologias são apenas ferramentas para alcançar determinado objetivo e que o mais importante está na base.**
-
-
+**Atualmente meu foco tem sido em tecnologias dos ecossistemas de JavaScript e Python, acreditando fielmente que são apenas ferramentas para alcançar determinado objetivo e que o mais importante está na base.**
 
 ###
 

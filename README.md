@@ -2,9 +2,7 @@
 
 ### 
 
-**Desenvolvedor de Software Fullstack.**
-
-**Atualmente meu foco tem sido em tecnologias dos ecossistemas de JavaScript e Python, acreditando fielmente que são apenas ferramentas para alcançar determinado objetivo e que o mais importante está na base.**
+**Desenvolvedor de Software Backend** e entusiasta de Inteligência Artificial, com a convicção de que tecnologias são apenas ferramentas para alcançar objetivos. Acredito que o essencial está em resolver problemas reais com base em fundamentos sólidos que sustentam qualquer solução eficaz.
 
 ###
 

@@ -6,10 +6,10 @@
 
 ###
 
-<h2 align="left">Dedicação e esforço são os pilares para bons resultados.</h2> <img align="left" src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" style="height:80px;">
+<h2 align="left">Dedicação e esforço são os pilares para bons resultados.</h2> <img align="left" src="https://manzdev.github.io/twitch-dvd-screensaver/manzdvd.gif" style="height:100px;">
 <img align="right" src="https://i.pinimg.com/originals/50/d5/8a/50d58aabbb05531e731cf62afe00be5d.gif" style="height:150px;">
 <div align="center">
-<img align="left" src="https://manzdev.github.io/twitch-dvd-screensaver/manzdvd.gif" style="height:100px;">
+  <img align="left" src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" style="height:80px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dvdmarveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=false" style="height:140px;" alt="languages graph">
 </div>
 

@@ -50,7 +50,7 @@
 <div align="right">
   
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&color=C8E1F2)](https://www.linkedin.com/in/deyvidmarques/)
-[![gmail](https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=black&color=C8E1F2)](mailto:dvdmarveira@gmail.com)
+
 
 </div>
 
